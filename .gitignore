@@ -1,0 +1,7 @@
+# directory
+google-cloud-sdk
+
+# OS generated files
+*.DS_STORE
+
+*.json
