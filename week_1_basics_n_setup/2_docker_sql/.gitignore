@@ -1,1 +1,8 @@
+# directory
 ny_taxi_postgres_data
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# csv files
+*.csv
